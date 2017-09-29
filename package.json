@@ -1,0 +1,22 @@
+{
+  "name": "vean-server",
+  "version": "0.0.1",
+  "description": "vean-simple-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vean"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.17.2",
+    "crypto": "0.0.3",
+    "express": "4.15.3",
+    "jsonwebtoken": "7.4.1",
+    "mongoose": "4.11.3",
+    "morgan": "1.8.2"
+  }
+}
